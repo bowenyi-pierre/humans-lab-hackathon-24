@@ -1,4 +1,4 @@
-Repository Structure
+### Repository Structure
 ```
 humans-lab-hackathon-24/
 ├── Code/
