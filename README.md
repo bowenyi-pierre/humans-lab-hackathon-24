@@ -6,7 +6,6 @@ humans-lab-hackathon-24/
 │   ├── Network
 |     |── Co-Domain Network
 |     |── Co-Hashtags Network
-|     |── Co-Mentioned Users Network
 |     |── Text Similarity Network
 |     |── Network Fusion
 │   ├── 
