@@ -10,7 +10,7 @@ humans-lab-hackathon-24/
 |     |── Network Fusion
 |     |── Clustering Evaluation
 │   ├── IO Driver Difference
-│   └── ...
+│   └── Bilingual Posters
 ├── plots/
 │   ├── 
 │   ├── 
