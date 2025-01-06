@@ -1,4 +1,5 @@
-### 1. Data source: https://github.com/sinking8/usc-x-24-us-election. 
+
+### 1. Paper link: https://www.overleaf.com/9115723145nytmbjwrwrvh#7e96e7
 ### 2. Repository Structure
 ```
 humans-lab-hackathon-24/
