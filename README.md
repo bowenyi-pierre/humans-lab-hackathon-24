@@ -15,6 +15,8 @@ humans-lab-hackathon-24/
 │   └── Bilingual Posters
 ├── plots/
 │   └── ...
+├── network_files/
+│   └── ...
 ├── en_data.csv
 ├── es_data.csv
-```
+
